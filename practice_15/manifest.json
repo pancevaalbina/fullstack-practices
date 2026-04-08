@@ -1,0 +1,23 @@
+{
+    "name": "Мои заметки",
+    "short_name": "Заметки",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4285f4",
+    "description": "Простое приложение для заметок, работающее офлайн",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "icons/favicon-128x128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/favicon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable any"
+      }
+    ]
+  }
